@@ -1,3 +1,4 @@
+# SMB Brute Force Tool
 ### SMB Brute Force Script Dokümantasyonu
 
 Bu dokümantasyon, `impacket` kütüphanesini kullanarak yazılmış olan SMB Brute Force Script'inin nasıl kullanılacağına dair detayları sağlar. Bu script, belirli bir hedef üzerinde sağlanan kullanıcı adı ve parola listelerindeki kombinasyonları deneyerek SMB giriş bilgilerini brute force yöntemiyle denemektedir.
