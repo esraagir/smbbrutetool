@@ -32,7 +32,7 @@ To run the script, save it to a file named `smb_bruteforce.py` and execute it fr
 ##### Example Command
 
 ```bash
-python smb_bruteforce.py 192.168.1.10 -l common_user.txt -p rockyou.txt
+python smb_bruteforce.py <target ip> -l common_user.txt -p rockyou.txt
 ```
 
 In this example:
